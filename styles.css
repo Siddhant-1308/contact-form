@@ -1,0 +1,80 @@
+#top_heading h1, #top_heading h3 {
+    margin: 0;
+}
+
+#top_heading {
+    margin-bottom: 20px; 
+}
+
+#fullname{
+    margin: 0; 
+    margin-bottom: -10px; 
+    padding-left: 10px; 
+}
+
+h3, #name{
+    margin: 40px; 
+}
+#form, h5{
+    margin: 0
+}
+#bottom_name{
+    margin-left: 180px;
+    margin-top: -18px;
+}
+#emailtxt, #inputemail{
+    margin: -10px
+}
+#emailtxt{
+    margin-left: 50px;
+}
+#inputemail{
+    margin-left: 40px;
+}
+#example{
+    margin-left: 40px;
+}
+#message, #messagebox{
+    margin: -6px
+}
+#message{
+    margin-left: 50px;
+}
+#messagebox{
+    margin-left: 40px;
+}
+button {
+    display: block;
+    margin: 30px 170px ; /* Center the button */
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #44b7ec; 
+    color: white; 
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #44b7ec; 
+}
+#top_heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#top_heading{
+    color: #44b7ec
+}
+#fullname{
+    color: #44b7ec
+}
+#emailtxt{
+    color: #44b7ec
+}
+#message{
+    color:#44b7ec;
+}
+#example{
+    color: white
+}
+
+
+
